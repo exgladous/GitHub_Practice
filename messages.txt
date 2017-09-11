@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 TEMPLE IS GREAT
 
 ?????????
+=======
+TEMPLE IS GREAT!
+>>>>>>> origin/master
