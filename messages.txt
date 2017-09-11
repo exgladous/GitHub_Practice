@@ -2,12 +2,10 @@ TEMPLE IS GREAT!
 
 ????????
 
-<<<<<<< HEAD
+!!!!!!
+
+Praise Temple
 
 !!!!!!
 
 **boldening** ***intensifies***
-=======
-Praise Temple
-!!!!!!
->>>>>>> origin/master
